@@ -25,7 +25,7 @@ const (
 	dbHost = "localhost"
 	dbPort = 5432
 	dbUser = "postgres"
-	dbPwd  = "postgres"
+	dbPwd  = "1324"
 	dbName = "todo"
 )
 
